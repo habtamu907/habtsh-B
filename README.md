@@ -15,7 +15,7 @@ Welcome! This repository includes two helpful PDF guides focused on different as
     A hands-on guide that walks you through how to use the bind() system call right from the Chrome OS terminal.
 
 What’s Inside
-1. chrome_os_bootable_usb.pdf – Instructions for creating a bootable USB drive to run Chrome OS directly without installation.
+1. habtsh_chrome_os.pdf – Instructions for creating a bootable USB drive to run Chrome OS directly without installation.
 
 2. System Call.pdf – A beginner-friendly explanation of the bind() system call and how to use it on Chrome OS.
 
